@@ -3,7 +3,7 @@
 <div align="left">
 <p>🔐 Security Engineer, Architect, & Consultant </p>
 <p>🎯 Data Security | Web Application Pentesting | Cloud Security | AI Security & Research</p>
-<p>📧 Email: <a href="mailto:RobertGosewehr@gmail.com">RobertGosewehr@gmail.com</a></p>
+<p>📧 Email: <a href="mailto:RobertGosewehr@gmail.com">Here</a></p>
 <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/robertgosewehr/">Here</a></p>
 <p>🌐 Github: <a href="https://github.com/goz-dot-lol/">Here</a></p>
 </div>
