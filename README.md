@@ -1,22 +1,12 @@
-<div align="center">
+### **Robert Gosewehr CISSP GWAPT CCNA**
 
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Robert%20Gosewehr&fontSize=70&fontColor=ffffff&desc=Security%20Architect%20%7C%20Fedora%20Contributor%20%7C%2020%2B%20Years%20Experience&descAlignY=60&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Robert%20Gosewehr&fontSize=70&fontColor=ffffff&desc=Security%20Architect%20%7C%20Fedora%20Contributor%20%7C%2020%2B%20Years%20Experience&descAlignY=60&descAlign=50)" alt="Robert Gosewehr Header"/>
-
-  <p>
-    <a href="[https://www.linkedin.com/in/robertgosewehr/](https://www.linkedin.com/in/robertgosewehr/)">
-      <img src="[https://img.shields.io/badge/LinkedIn-Connect_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
-    </a>
-    <a href="mailto:RobertGosewehr@gmail.com">
-      <img src="[https://img.shields.io/badge/Email-Secure_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Secure_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
-    </a>
-    <a href="[https://fedoraproject.org/wiki/User:RobertGosewehr](https://fedoraproject.org/wiki/User:RobertGosewehr)">
-      <img src="[https://img.shields.io/badge/Fedora-Project_Contributor-51A2DA?style=for-the-badge&logo=fedora&logoColor=white](https://img.shields.io/badge/Fedora-Project_Contributor-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)" alt="Fedora Project">
-    </a>
-    <a href="[https://github.com/RobertGosewehr?tab=repositories&q=&type=&language=&sort=](https://github.com/RobertGosewehr?tab=repositories&q=&type=&language=&sort=)">
-      <img src="[https://img.shields.io/badge/GitHub-Verified_commits-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Verified_commits-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub">
-    </a>
-  </p>
-
+<div align="left">
+<p>🌐 Security Engineer, Architect, & Consultant </p>
+<p>🎯 Data security, web application pentesting, network security, AI security & research </p>
+<p>💼 LinkedIn
+    <a href="[https://www.linkedin.com/in/robertgosewehr/](https://www.linkedin.com/in/robertgosewehr/)"></a></p>
+<p>📧 Email: <a href="mailto:RobertGosewehr@gmail.com">RobertGosewehr@gmail.com</a></p>
+<p>🌐 Github: <a href="https://github.com/goz-dot-lol/">Here</a></p>
 </div>
 
 ---
@@ -43,15 +33,15 @@ My technical toolkit reflects a "Purple Team" capability—leveraging offensive 
 | Domain | Key Technologies & Platforms |
 | :--- | :--- |
 | **SASE & Network** |![Netskope](https://img.shields.io/badge/Netskope-SASE_&_CASB-00A4E4?style=flat-square&logo=netskope&logoColor=white)![Cisco](https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=flat-square&logo=cisco)![Palo Alto](https://img.shields.io/badge/Palo_Alto-NGFW-FA582D?style=flat-square&logo=paloaltonetworks) |
-| **Data Protection** |![Protegrity](https://img.shields.io/badge/Protegrity-Encryption_&_Tokenization-F15A24?style=flat-square)![CyberArk](https://img.shields.io/badge/CyberArk-PAM_&_IAM-000000?style=flat-square)!(https://img.shields.io/badge/AWS-Security_Hub_&_IAM-232F3E?style=flat-square&logo=amazon-aws) |
-| **SIEM & Ops** |!(https://img.shields.io/badge/Splunk-Threat_Hunting-000000?style=flat-square&logo=splunk)!(https://img.shields.io/badge/Rapid7-Vulnerability_Mgmt-EA2031?style=flat-square)![Qualys](https://img.shields.io/badge/Qualys-VM-1E4471?style=flat-square) |
+| **Data Protection** |![Protegrity](https://img.shields.io/badge/Protegrity-Encryption_&_Tokenization-F15A24?style=flat-square)![CyberArk](https://img.shields.io/badge/CyberArk-PAM_&_IAM-000000?style=flat-square)![AWS](https://img.shields.io/badge/AWS-Security_Hub_&_IAM-232F3E?style=flat-square&logo=amazon-aws) |
+| **SIEM & Ops** |![Splunk](https://img.shields.io/badge/Splunk-Threat_Hunting-000000?style=flat-square&logo=splunk)![Rapid7](https://img.shields.io/badge/Rapid7-Vulnerability_Mgmt-EA2031?style=flat-square)![Qualys](https://img.shields.io/badge/Qualys-VM-1E4471?style=flat-square) |
 
 #### ⚔️ **Offensive Security & Research**
 *Focus: Vulnerability assessment, penetration testing, and adversarial simulation.*
 
 | Domain | Key Technologies & Platforms |
 | :--- | :--- |
-| **Web AppSec** |!([https://img.shields.io/badge/Burp_Suite-Pro-FF6633?style=flat-square&logo=burpsuite](https://img.shields.io/badge/Burp_Suite-Pro-FF6633?style=flat-square&logo=burpsuite))![Caido](https://img.shields.io/badge/Caido-Modern_Web_Audit-4A4A4A?style=flat-square)!(https://img.shields.io/badge/OWASP-ZAP-4A90E2?style=flat-square&logo=owasp) |
+| **Web AppSec** |![Burp Suite](https://img.shields.io/badge/Burp_Suite-Pro-FF6633?style=flat-square&logo=burpsuite)![Caido](https://img.shields.io/badge/Caido-Modern_Web_Audit-4A4A4A?style=flat-square)![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-4A90E2?style=flat-square&logo=owasp) |
 | **Exploitation** |![Metasploit](https://img.shields.io/badge/Metasploit-Framework-3371E3?style=flat-square&logo=metasploit)![Kali Linux](https://img.shields.io/badge/Kali-OS-557C94?style=flat-square&logo=kalilinux)![Python](https://img.shields.io/badge/Python-Scripting_&_Automation-3776AB?style=flat-square&logo=python) |
 
 ---
@@ -102,7 +92,3 @@ In an era of deepfakes and impersonation, cryptographic verification is essentia
 *   **Security.txt**: I advocate for the adoption of `security.txt` (RFC 9116) for responsible disclosure.
 
 ---
-
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=RobertGosewehr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=RobertGosewehr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)" alt="Robert's GitHub Stats" />
-</div>
